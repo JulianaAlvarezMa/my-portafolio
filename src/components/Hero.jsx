@@ -34,7 +34,7 @@ export default function Hero() {
             <Avatar3D
               pointerRef={pointerRef}
               targetHeight={isMobile ? 1.55 : 2.3}
-              position={[0, isMobile ? 0.05 : -0.2, 0]}
+              position={[0, isMobile ? -0.6 : -0.2, 0]}
             />
           </Suspense>
         </Canvas>

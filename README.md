@@ -1,4 +1,4 @@
-# Alex — Portafolio 3D
+# Juliana — Portafolio 3D
 
 Landing page en React + Vite, con el avatar 3D interactivo (mirada que sigue
 al cursor) hecho con react-three-fiber, y acentos decorativos 3D en cada
